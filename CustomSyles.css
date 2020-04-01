@@ -1,4 +1,4 @@
-/* .sidebarContent{
+ .sidebarContent{
     margin-bottom:10px;
     min-height:150px;
     background-color: silver;
@@ -11,12 +11,11 @@
     background-color: silver;
     text-align: center;
     font-size: large;
-}
-.customDiv{
-    margin-bottom:10px;
-    min-height:150px;
+} .customDiv{
+    margin:10px;
+    min-height:50px;
     background-color: silver;
     text-align: center;
     font-size: large;
 }
- */
+
